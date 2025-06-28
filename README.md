@@ -24,5 +24,5 @@ A customizable password generator built with **React** and **Tailwind CSS**. Thi
 
 # 👉 Live Demo 
 
- [Click here to try it out](https://your-deployed-url.com)
+ [Click here to try it out](https://passwordgenerator4u.netlify.app/)
 
